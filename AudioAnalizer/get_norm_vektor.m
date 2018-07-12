@@ -1,7 +1,7 @@
 function new_wector = get_norm_vektor(vector,stepen)
 
-% vector = input_data(1).DataSiglnal;
-% stepen = input_data(1).ElemSize;
+% vector = input data
+% stepen = size of one frame;
 %Autor Starokozhev S.V. 
 %This function returns an array whose vector is a multiple of degree 2
 x = length(vector);
